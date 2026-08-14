@@ -5,3 +5,10 @@
 # Agent tooling — created by gc init / agent sessions, not project code
 .claude/
 .codex/
+CLAUDE.md
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key
+.beads/proxieddb/
