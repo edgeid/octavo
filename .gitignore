@@ -1,3 +1,7 @@
 # Gas City
 .beads/*
 !.beads/identity.toml
+
+# Agent tooling — created by gc init / agent sessions, not project code
+.claude/
+.codex/
